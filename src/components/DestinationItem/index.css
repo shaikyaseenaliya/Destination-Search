@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.destination-item-container {
+  height: 20vh;
+  width: 25vw;
+  background-color: white;
+  border-radius: 8px;
+}
+.destination-item-image {
+  height: 200px;
+  width: 300px;
+  padding: 10px;
+}
+.destination-item-para {
+  color: #252627;
+  font-size: 32px;
+  font-weight: 500;
+  font-family: 'Roboto';
+}
